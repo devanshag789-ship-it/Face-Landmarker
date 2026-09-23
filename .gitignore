@@ -1,0 +1,20 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment variables and local assets
+.env
+*.task
+
+# Operating system files
+.DS_Store
+Thumbs.db
